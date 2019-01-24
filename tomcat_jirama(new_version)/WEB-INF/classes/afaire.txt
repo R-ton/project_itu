@@ -1,0 +1,22 @@
+lister prelevement (v)
+facturer chaque compteur coche(v)
+inserer prelevement
+afficher facture(v)
+
+ --mila mitovy proprietaire compteur(v)
+ --avoka total à payer (sum(conso))(v)	(detail sy tsotra)
+payer
+rechercher un prelevement par id et date
+abonner `a un offer et afficher facture
+
+afficher facture tsotra
+idclient
+daty
+total
+
+facture detail
+avoka class detailfacture
+
+abonnement
+mila jerena oe mitovy categorie ve le tranche
+sy le compteur

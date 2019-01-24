@@ -1,0 +1,18 @@
+mecanisme annulation
+manana facture sy facturedavoir
+facturedavoir->nouveau facture (piece pour justifier que un facture est errone)
+==>facture negatif
+2type
+partiel
+integral
+rehefa total->1)sauvegarder la facture
+2)enlever la facture
+3)enlever indice de prelevement
+
+
+possible facturedavoir > 1
+facture avoka = facturetsotra + facturedavoir
+
+
+situation client
+argent a payer pour chaque client
